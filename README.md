@@ -27,7 +27,7 @@
 |--------------------|---------------------|-------------|---------------------|-----------------|
 | [snakegpt.work](https://snakegpt.work) | GPT-4，GPT3.5 | 有           | MidJourney 绘图支持  | ⭐⭐⭐⭐⭐          |
 | [gptcat.net](https://gptcat.net)      | GPT-4,GPT-o1， Claude3  | 有     | 高级语音对话         | ⭐⭐⭐⭐           |
-| [ai-panda.xyz](https://ai-panda.xyz)  | GPT-4, GPT-3.5  | 有           | API 调用功能         | ⭐⭐⭐⭐           |
+| [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47)  | GPT-4, GPT-3.5  | 有           | API 调用功能         | ⭐⭐⭐⭐           |
 | [gptdog.online](https://gptdog.online) | GPT-3.5         | 有           | 简单免费，新手友好    | ⭐⭐⭐            |
 
 ---
