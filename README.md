@@ -1,7 +1,7 @@
 
 # 2024 年 ChatGPT 镜像网站推荐：国内免费访问指南（支持 GPT-4 和GPT-o1）
 
-> **更新时间：2024/11/28**  
+> **更新时间：2024/11/29**  
 > **作者：lory-b**  
 
 
@@ -28,7 +28,7 @@
 | [snakegpt.work](https://snakegpt.work) | GPT-4，GPT3.5 | 有           | MidJourney 绘图支持  | ⭐⭐⭐⭐⭐          |
 | [gptcat.net](https://gptcat.net)      | GPT-4,GPT-o1， Claude3  | 有     | 高级语音对话         | ⭐⭐⭐⭐           |
 | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47)  | GPT-4, GPT-3.5  | 有           | API 调用功能         | ⭐⭐⭐⭐           |
-| [gptdog.online](https://gptdog.online) | GPT-3.5         | 有           | 简单免费，新手友好    | ⭐⭐⭐            |
+| [gptdog.online](https://gptdog.online) | GPT-3.5         | 无           | 新手友好    | ⭐⭐⭐            |
 
 ---
 
@@ -38,7 +38,7 @@
 |------------------------|--------------------|---------------------|--------------------|--------------------|
 | **支持 GPT-4**         | ✅                 | ✅                   | ✅                 | ✅                 |
 | **支持 Claude3**       | ❌                 | ✅                   | ❌                 | ❌                 |
-| **免费额度**           | 有                 | 有限                | 有                 | 有                 |
+| **免费额度**           | 有                 | 有                | 有                 | 有                 |
 | **速度与稳定性**       | ⭐⭐⭐⭐⭐             | ⭐⭐⭐⭐⭐                | ⭐⭐⭐⭐              | ⭐⭐⭐              |
 | **额外功能（如绘图）** | MidJourney 支持    | 高级语音对话        | API 调用           | 无                 |
 
