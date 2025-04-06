@@ -1,6 +1,6 @@
 # 2025 年 ChatGPT 镜像网站推荐：国内免费访问指南（支持 GPT-4、GPT-o1、GPT-4o和Deepseek-R1）
 
-> **更新时间： 2025/04/05**  
+> **更新时间： 2025/04/06**  
 
 想快速访问 ChatGPT镜像网站？？我们为您整理了最新的国内可用的ChatGPT镜像站资源，无需翻墙，支持 GPT-4、Claude3 和 AI 绘图功能。以下内容包括推荐站点、功能对比、使用教程和最新动态，助您轻松选择最佳站点。
 
@@ -22,7 +22,7 @@
 
 | **站点名称**       | **支持版本**         | **免费额度** | **独特功能**         | **速度与稳定性** |
 |--------------------|---------------------|-------------|---------------------|-----------------|
-| [snakegpt.work](https://snakegpt.work) | GPT-4，GPT3.5 | 有           | MidJourney 绘图支持  | ⭐⭐⭐⭐⭐          |
+| [snakegpt.chat](https://snakegpt.chat) | GPT-4，GPT3.5 | 有           | MidJourney 绘图支持  | ⭐⭐⭐⭐⭐          |
 | [gptcat.cc](https://gptcat.cc)      | GPT-4,GPT-o1， Claude3  | 有     | 高级语音对话         | ⭐⭐⭐⭐           |
 | [ai-panda.xyz](https://gptpanda.net/login?invite_code=34137c47)  | GPT-4, GPT-3.5  | 有           | API 调用功能         | ⭐⭐⭐⭐           |
 | [gptdog.online](https://gptdog.online) | GPT-3.5         | 无           | 新手友好    | ⭐⭐⭐            |
@@ -31,7 +31,7 @@
 
 ## 站点功能与详细对比
 
-| **功能项**             | **snakegpt.work**  | **gptcat.cc**      | **ai-panda.xyz**   | **gptdog.online**  |
+| **功能项**             | **snakegpt.chat**  | **gptcat.cc**      | **ai-panda.xyz**   | **gptdog.online**  |
 |------------------------|--------------------|---------------------|--------------------|--------------------|
 | **支持 GPT-4**         | ✅                 | ✅                   | ✅                 | ✅                 |
 | **支持 Claude3**       | ❌                 | ✅                   | ❌                 | ❌                 |
@@ -46,7 +46,7 @@
 以下是快速上手指南，帮助您轻松体验 ChatGPT 镜像站点。
 
 ### 步骤 1：选择镜像站
-根据推荐表选择适合您的站点，例如：[snakegpt.work](https://snakegpt.work)。
+根据推荐表选择适合您的站点，例如：[snakegpt.chat](https://snakegpt.chat)。
 
 ### 步骤 2：注册或直接使用
 - **需要注册**：部分站点需要通过国内邮箱注册账号，按照提示填写信息即可完成。
@@ -82,7 +82,7 @@
 
 ### 4. 哪些ChatGPT 镜像网站适合新手使用？
 - **`gptcat.cc`**：新手友好。
-- **`snakegpt.work`**：功能丰富，适合更高级用户。
+- **`snakegpt.chat`**：功能丰富，适合更高级用户。
 
 ---
 
